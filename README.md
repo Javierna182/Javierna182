@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javi Navarro</h1>
+<img src="https://github.com/Javierna182/Javierna182/blob/main/coverJavi.jpg?raw=true"/>
 <h3 align="center">A passionate full stack developer with a graphic design background. A Colombian living in Minnesota!</h3>
 
 - 🔭 I’m currently working on [Luego App](https://github.com/Javierna182/Luego-app)
