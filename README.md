@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javi Navarro</h1>
-<h3 align="center">A passionate full stack developer with a graphic design background from Colombia living in Minnesota!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierna182" alt="javierna182" /></a> </p>
+<h3 align="center">A passionate full stack developer with a graphic design background. A Colombian living in Minnesota!</h3>
 
 - 🔭 I’m currently working on [Luego App](https://github.com/Javierna182/Luego-app)
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javierna182](https://github.com/Javierna182)
 
@@ -17,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/javier-navarro-877288121/](https://www.linkedin.com/in/javier-navarro-877288121/)
 
-- ⚡ Fun fact **I am Bilingual, fluent in Spanish and English.**
+- ⚡ Fun fact **I am Bilingual, fluent in Spanish and English. I like to make stickers and digital illustrations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javierna182&show_icons=true&locale=en" alt="javierna182" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierna182&" alt="javierna182" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javierna182" alt="javierna182" /></a> </p>
+
