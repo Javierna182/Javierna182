@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Javi Navarro</h1>
 <h3 align="center">A passionate full stack developer with a graphic design background.</h3>
 
-- 🔭 I’m currently working on [Luego App](https://github.com/Javierna182/Luego-app)
+- 🔭 I’m currently working on [Luego App](https://obscure-falls-63223-89065279287d.herokuapp.com/)
+- [Luego App Github](https://github.com/Javierna182/Luego-app)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
