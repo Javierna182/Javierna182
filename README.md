@@ -1,4 +1,4 @@
-<img src="https://github.com/Javierna182/Javierna182/blob/main/coverJavi.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/Javierna182/Javierna182/main/cover2.jpg"/>
 <h1 align="center">Hi 👋, I'm Javi Navarro</h1>
 <h3 align="center">A passionate full stack developer with a graphic design background.</h3>
 
