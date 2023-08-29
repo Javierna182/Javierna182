@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Javi Navarro</h1>
 <img src="https://github.com/Javierna182/Javierna182/blob/main/coverJavi.jpg?raw=true"/>
-<h3 align="center">A passionate full stack developer with a graphic design background. A Colombian living in Minnesota!</h3>
+<h1 align="center">Hi 👋, I'm Javi Navarro</h1>
+<h3 align="center">A passionate full stack developer with a graphic design background.</h3>
 
 - 🔭 I’m currently working on [Luego App](https://github.com/Javierna182/Luego-app)
 
@@ -8,15 +8,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javierna182](https://github.com/Javierna182)
 
-- 📝 My Audiovisual porfolio [https://javierna.weebly.com/](https://javierna.weebly.com/)
+- 📝 My Graphic Design porfolio [https://javierna.weebly.com/](https://javierna.weebly.com/)
 
 - 💬 Ask me about **Javascript, react, redux and Material UI**
 
 - 📫 How to reach me **javierna182@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/javier-navarro-877288121/](https://www.linkedin.com/in/javier-navarro-877288121/)
+- 📄 Learn more about my experience [https://www.linkedin.com/in/javier-navarro-877288121/](https://www.linkedin.com/in/javier-navarro-877288121/)
 
-- ⚡ Fun fact **I am Bilingual, fluent in Spanish and English. I like to make stickers and digital illustrations.**
+- ⚡ Fun fact **I am Bilingual, fluent in Spanish and English. I like to design stickers and digital illustrations in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
