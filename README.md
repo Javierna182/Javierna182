@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on [Luego App](https://obscure-falls-63223-89065279287d.herokuapp.com/)
 - :ocean: Luego repo: [Luego App Github](https://github.com/Javierna182/Luego-app)
 
-- :dart: Docomomo MN / US Modern Registry Map: [Docomomo MN / US Modern Registry Map Github]([https://github.com/Javierna182/Luego-app](https://github.com/Javierna182/Docomomo-MN-Map-Display)
-
+- :dart: Docomomo MN / US Modern Registry Map:[Docomomo MN / US Modern Registry Map Github](https://github.com/Javierna182/Docomomo-MN-Map-Display)
+  
 - 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javierna182](https://github.com/Javierna182)
